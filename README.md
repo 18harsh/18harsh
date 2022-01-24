@@ -1,9 +1,10 @@
 
+
+
+
+
+# Hi, I'm Harsh! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=18harsh)
-
-
-
-# Hi, I'm Harsh! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
 ## 🚀 About Me

@@ -20,7 +20,8 @@ I am a Computer Science Undergrad Student based in Mumbai with an interest in De
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&style=for-the-badge&style=flat" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&style=for-the-badge&style=flat" height="30"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&style=for-the-badge&style=flat" height="30"/>
 
-<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&style=for-the-badge&style=flat" height="30"/> <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&style=for-the-badge&style=flat" height="30"/>
+<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&style=for-the-badge&style=flat" height="30"/> 
+<!-- <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&style=for-the-badge&style=flat" height="30"/> -->
 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=for-the-badge&style=flat" height="30"/> <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&style=for-the-badge&style=flat" height="30"/>
 <!-- <img src="" height="30"/>
@@ -40,10 +41,10 @@ I am a Computer Science Undergrad Student based in Mumbai with an interest in De
 <!-- 
 <img src="https://img.icons8.com/color/30/000000/golang.png"/><img src="https://img.icons8.com/color/30/000000/swift.png"/><img src="https://img.icons8.com/color/30/000000/react-native.png"/><img src="https://img.icons8.com/color/30/000000/spring-logo.png"/> -->
 <!-- ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reuben21&count_private=true&show_icons=true&theme=monokai) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reuben21&hide=TeX&layout=compact&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18harsh&hide=TeX&layout=compact&theme=monokai)
 
 ## 📫 How to reach me:  
-<a href="https://www.instagram.com/reubencoutinho21/"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/reuben-c-b89ba295"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/18_harsh/?hl=en"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/harshgandhi018/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
 
 <!--
 <br>

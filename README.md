@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-I am a Computer Science Undergrad Student based in Mumbai with an interest in Developer and Data Science. I love to solve problems by using coding and analytical skills. I'm a highly self-motivated, quick learner, and driven to complete a task.
+I am a Computer Engineer with an interest in Developer and Data Science. I love to solve problems by using coding and analytical skills. I'm a highly self-motivated, quick learner, and driven to complete a task.
 
 
 ## 🖥 Technical Skills & Tools
